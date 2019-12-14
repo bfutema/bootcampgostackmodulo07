@@ -62,5 +62,25 @@
       "price": 179.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     }
+  ],
+  "notifications": [
+    {
+      "read": true,
+      "_id": "5dd15e4b71555b12f4e9362a",
+      "content": "Novo agendamento de Jhonatan Da Costa para dia 21 de novembro, às 13:00h",
+      "user": 5,
+      "createdAt": "2019-11-17T14:50:51.969Z",
+      "updatedAt": "2019-11-17T14:55:39.080Z",
+      "__v": 0
+    },
+    {
+      "read": false,
+      "_id": "5dd15afe00912765a0c7181c",
+      "content": "Novo agendamento de Amanda Cano para dia 21 de novembro, às 15:00h",
+      "user": 5,
+      "createdAt": "2019-11-17T14:36:46.091Z",
+      "updatedAt": "2019-11-17T14:36:46.091Z",
+      "__v": 0
+    }
   ]
 }
